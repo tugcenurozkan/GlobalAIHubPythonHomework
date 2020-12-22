@@ -1,3 +1,4 @@
+#KULLANICIDAN BİLGİLERİNİ İSTE VE EKRANA YAZDIR İF İLE KOŞUL BİLDİR
 firstname=input("Please write your firstname:")
 lastname=input("Please write your lastname:")
 dateOfBirth=int(input("Please write your birth year:"))
